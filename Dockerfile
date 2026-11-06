@@ -1,1 +1,1 @@
-docker pull yugabytedb/yugabyte
+FROM ghcr.io/convex/convex-backend:latest
