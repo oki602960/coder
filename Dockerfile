@@ -1,1 +1,1 @@
-FROM ghcr.io/convex/convex-backend:latest
+FROM ghcr.io/tashfeenahmed/freellmapi:sha-73e3f05
