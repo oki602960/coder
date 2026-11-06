@@ -1,1 +1,1 @@
-FROM ghcr.io/open-webui/open-webui:slim
+FROM ghcr.io/coder/coder:sha256-b0150edcf78e91d1553fa2f05dfd323d189ae4b1eca1dab1fbc9ab2f2bd0443d
